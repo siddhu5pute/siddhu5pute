@@ -29,6 +29,7 @@ can scale.
 |---------|-----------|
 | [Chirpy](https://github.com/siddhu5pute/chirpy) | Twitter-like REST API in Go — JWT auth, refresh tokens, PostgreSQL |
 | [PokedexCLI](https://github.com/siddhu5pute/pokedexcli) | Command line Pokedex built in Go |
+| [BankCore](https://github.com/siddhu5pute/bankcore) | Banking Transaction System with fraud detection — Python, FastAPI, PostgreSQL |
 
 ---
 
