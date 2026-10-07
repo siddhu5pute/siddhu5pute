@@ -26,10 +26,10 @@ can scale.
 ## Projects
 
 | Project | What it is |
-|---------|-----------|
-| [Chirpy](https://github.com/siddhu5pute/chirpy) | Twitter-like REST API in Go — JWT auth, refresh tokens, PostgreSQL |
-| [PokedexCLI](https://github.com/siddhu5pute/pokedexcli) | Command line Pokedex built in Go |
-| [BankCore](https://github.com/siddhu5pute/bankcore) | Banking Transaction System with fraud detection — Python, FastAPI, PostgreSQL |
+|---------|------------|
+| [Osto CLI Login](https://github.com/siddhu5pute/osto-cli-login) | Secure Go command-line authentication system with PostgreSQL sessions, bcrypt password hashing, account lockout, and optional TOTP two-factor authentication |
+| [BankCore](https://github.com/siddhu5pute/bankcore) | Banking transaction system with fraud detection, built with Python, FastAPI, and PostgreSQL |
+| [Chirpy](https://github.com/siddhu5pute/chirpy) | Twitter-like REST API built with Go, featuring JWT authentication, refresh tokens, and PostgreSQL |
 
 ---
 
